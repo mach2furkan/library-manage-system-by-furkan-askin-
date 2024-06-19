@@ -1,0 +1,3 @@
+/Users/furkanaskin/Desktop/C Projeler/untitled1/cmake-build-debug/CMakeFiles/LibrarySystem.dir
+/Users/furkanaskin/Desktop/C Projeler/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/furkanaskin/Desktop/C Projeler/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
